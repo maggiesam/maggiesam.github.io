@@ -9,8 +9,9 @@
 locale                   : "en-US"
 title                    : "María Castro"
 title_separator          : "-"
-name                     : "Magdalena Castro Sam"
-description              : "personal description"
+name                     : &name "Magdalena Castro Sam"
+description              : &description "personal description"
+
 url                      : https://maggiesam.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "maggiesam/maggiesam.github.io"
